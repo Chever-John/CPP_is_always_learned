@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "array": "cpp"
+    },
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.cppStandard": "c++20",
+    "cSpell.words": [
+        "higgens"
+    ],
+    "clang-format.executable": "C:\\Users\\硬汉J\\.vscode\\extensions\\ms-vscode.cpptools-0.27.0-insiders3\\LLVM\\bin\\clang-format.exe",
+    "editor.formatOnSave": true,
+    "clang-format.style": "Google",
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+    //"terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],
+}
