@@ -15,7 +15,8 @@
             "compilerPath": "D:\\software\\mingwforvscode\\mingw64\\bin\\g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "${default}",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
         }
     ],
     "version": 4

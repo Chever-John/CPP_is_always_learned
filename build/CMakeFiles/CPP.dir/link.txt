@@ -1,0 +1,2 @@
+D:\software\mingwforvscode\mingw64\bin\ar.exe qc libCPP.a  CMakeFiles/CPP.dir/CPP.cpp.obj
+D:\software\mingwforvscode\mingw64\bin\ranlib.exe libCPP.a
